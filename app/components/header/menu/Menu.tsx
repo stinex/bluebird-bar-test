@@ -15,7 +15,7 @@ const Menu: FC<MenuProps> = ({ menuShow, onRequestCloseMenu }) => {
 
   const henblerClicLink = () => {
     if (window.innerWidth <= 1024) {
-      onRequestCloseMenu(!menuShow)
+      onRequestCloseMenu()
       document.body.classList.remove('overflow-hidden')
     }
   }
