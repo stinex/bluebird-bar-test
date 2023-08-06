@@ -367,7 +367,7 @@ export const Home = () => {
               <SwiperSlide key={item.review}>
                 <div className="flex flex-col justify-center h-[100%] px-3">
                   <div className="text-base mb-2">
-                    {t(`reviews.${i}.review`)}
+                    {`«${t(`reviews.${i}.review`)}»`}
                   </div>
                   <div className="text-2xl">{t(`reviews.${i}.name`)}</div>
                 </div>
