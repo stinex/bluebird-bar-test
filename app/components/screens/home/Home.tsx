@@ -366,8 +366,10 @@ export const Home = () => {
             {translations.Home.reviews.map((item, i) => (
               <SwiperSlide key={item.review}>
                 <div className="flex flex-col justify-center h-[100%] px-3">
-                  <div className="text-2xl mb-2">{t(`reviews.${i}.name`)}</div>
-                  <div className="text-base">{t(`reviews.${i}.review`)}</div>
+                  <div className="text-base mb-2">
+                    {t(`reviews.${i}.review`)}
+                  </div>
+                  <div className="text-2xl">{t(`reviews.${i}.name`)}</div>
                 </div>
               </SwiperSlide>
             ))}
