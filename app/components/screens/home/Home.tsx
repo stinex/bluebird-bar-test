@@ -5,7 +5,7 @@ import 'swiper/css'
 import 'swiper/css/pagination'
 
 import { useEffect, useRef } from 'react'
-import { useTranslations } from 'next-intl'
+import { useLocale, useTranslations } from 'next-intl'
 import Image from 'next/image'
 
 import { Swiper, SwiperSlide } from 'swiper/react'
@@ -49,6 +49,8 @@ export const Home = () => {
 
   const navigationMenuBarPrevRef = useRef<HTMLDivElement>(null)
   const navigationMenuBarNextRef = useRef<HTMLDivElement>(null)
+
+  const locale = useLocale()
 
   const t = useTranslations('Home')
 
@@ -194,7 +196,7 @@ export const Home = () => {
                 className="flex md:flex-row flex-col  md:items-start items-center text-center gap-[20px]"
               >
                 <Image
-                  src={t(`advantages.${i}.img`)}
+                  src={`${locale}/${t(`advantages.${i}.img`)}`}
                   width="100"
                   height="100"
                   alt={t(`advantages.${i}.title`)}
