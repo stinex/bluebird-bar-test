@@ -1,0 +1,16 @@
+@import '../../assets/styles/variables.scss';
+.container {
+  width: min(100% - 39px, 1566px);
+  margin-inline: auto;
+  height: 100%;
+}
+@media (max-width: $mq-tablet) {
+  .container {
+    width: min(100% - 78px, 1920px);
+  }
+}
+@media (max-width: $mq-mobile--lg) {
+  .container {
+    width: min(100% - 30px, 1920px);
+  }
+}
