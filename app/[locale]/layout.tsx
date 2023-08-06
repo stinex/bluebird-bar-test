@@ -7,7 +7,7 @@ import {
 import { notFound } from 'next/navigation'
 
 export function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'de' }]
+  return [{ locale: 'en' }, { locale: 'lv' }]
 }
 
 // generate Metadata
