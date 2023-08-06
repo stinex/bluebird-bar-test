@@ -474,7 +474,7 @@ export const Home = () => {
             }}
           >
             {translations.Home.topFoods.map((item, i) => (
-              <SwiperSlide>
+              <SwiperSlide key={t(`topFoods.${i}.item_title`)}>
                 <div className="px-[60px] flex flex-col justify-center h-[100%]">
                   <h4 className="text-secondaryColor font-semibold text-2xl mb-1">
                     {t(`topFoods.${i}.item_title`)}

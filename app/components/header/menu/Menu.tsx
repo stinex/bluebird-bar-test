@@ -13,15 +13,11 @@ type MenuProps = {
 const Menu: FC<MenuProps> = ({ menuShow, onRequestCloseMenu }) => {
   const t = useTranslations('Home')
 
-  useEffect(() => {
-    menuShow
-      ? document.body.classList.add('overflow-hidden')
-      : document.body.classList.remove('overflow-hidden')
-  }, [menuShow])
-
-
-  const henblerClicLink = () =>{
-    if (window.innerWidth <= 1024) onRequestCloseMenu
+  const henblerClicLink = () => {
+    if (window.innerWidth <= 1024) {
+      onRequestCloseMenu(!menuShow)
+      document.body.classList.remove('overflow-hidden')
+    }
   }
 
   return (
@@ -30,6 +26,7 @@ const Menu: FC<MenuProps> = ({ menuShow, onRequestCloseMenu }) => {
         {translations.Home.pageLinks.map((item, i) => (
           <li key={item.name}>
             <Link
+              key={t(`pageLinks.${i}.href`)}
               to={t(`pageLinks.${i}.href`)}
               spy={true}
               smooth={true}
