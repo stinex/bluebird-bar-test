@@ -190,11 +190,11 @@ export const Home = () => {
           <div className="grid gap-[30px] lg:grid-cols-3 md:grid-cols-2 grid-cols-1 max-w-[1170px] m-auto">
             {translations.Home.advantages.map((item, i) => (
               <div
-                key={`.${t(`advantages.${i}.title`)}`}
+                key={t(`advantages.${i}.title`)}
                 className="flex md:flex-row flex-col  md:items-start items-center text-center gap-[20px]"
               >
                 <Image
-                  src={t(`advantages.${i}.img`)}
+                  src={`.${t(`advantages.${i}.img`)}`}
                   width="100"
                   height="100"
                   alt={t(`advantages.${i}.title`)}
