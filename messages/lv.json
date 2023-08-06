@@ -891,6 +891,32 @@
         "review": "Bluebird Bar ir vieta, kur var pavadīt mierīgu vakaru labā kompānijā. Nepalaidiet garām iespēju izmēģināt viņu autora kokteiļus!"
       }
     ],
+    "topFoods": [
+      {
+        "item_title": "BFC Bluebird Fried Chicken",
+        "item_description": "briošu maize, karības marinēta vistas krūtiņa, siers, lēnā salāti, kraukšķīga sīpolu miza, karību majonēze",
+        "item_price": "$13",
+        "item_type": ""
+      },
+      {
+        "item_title": "Super Govs",
+        "item_description": "briošu maize, liellopa kotletes, siers, tomāts, salāti, marinēti sīpoli un gurķi, chimichurri majonēze",
+        "item_price": "$14",
+        "item_type": ""
+      },
+      {
+        "item_title": "La Čupakabra",
+        "item_description": "briošu maize, pašgatavots cālis, nacho siera mērce, guakamole, jalapeno pipari, pikantā majonēze",
+        "item_price": "$13",
+        "item_type": ""
+      },
+      {
+        "item_title": "Zivis un Čipsi",
+        "item_description": "alus mērcē ceptas skumbrijas, čipsi, zaļie zirņi, tārtara mērce",
+        "item_price": "$13",
+        "item_type": ""
+      }
+    ],
     "titleContacts": "Kontakti",
     "phonesContacts": ["+371 203 83 074"],
     "emailsContacts": ["rigabirdbar@gmail.com"],

@@ -471,46 +471,21 @@ export const Home = () => {
               delay: 1700,
             }}
           >
-            <SwiperSlide>
-              <div className="px-[60px] flex flex-col justify-center h-[100%]">
-                <h4 className="text-secondaryColor font-semibold text-2xl mb-1">
-                  Three Chocolates
-                </h4>
-                <p className="text-typeographyColor mb-5 font-medium">
-                  White Chocolate, Milk, Black, Cream, Syrup, Coconut, Classic
-                  Cakes
-                </p>
-                <div className="text-secondaryColor mb-2 text-5xl font-semibold font-sans">
-                  $15
+            {translations.Home.topFoods.map((item, i) => (
+              <SwiperSlide>
+                <div className="px-[60px] flex flex-col justify-center h-[100%]">
+                  <h4 className="text-secondaryColor font-semibold text-2xl mb-1">
+                    {t(`topFoods.${i}.item_title`)}
+                  </h4>
+                  <p className="text-typeographyColor mb-5 font-medium">
+                    {t(`topFoods.${i}.item_description`)}
+                  </p>
+                  <div className="text-secondaryColor mb-2 text-5xl font-semibold font-sans">
+                    {t(`topFoods.${i}.item_price`)}
+                  </div>
                 </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="px-[60px] flex flex-col justify-center h-[100%]">
-                <h4 className="text-secondaryColor font-semibold text-2xl mb-1">
-                  Three Milk
-                </h4>
-                <p className="text-typeographyColor mb-5 font-medium">
-                  White Chocolate, Milk, Black, Cream, Syrup
-                </p>
-                <div className="text-secondaryColor mb-2 text-5xl font-semibold font-sans">
-                  $5
-                </div>
-              </div>
-            </SwiperSlide>
-            <SwiperSlide>
-              <div className="px-[60px] flex flex-col justify-center h-[100%]">
-                <h4 className="text-secondaryColor font-semibold text-2xl mb-1">
-                  Three
-                </h4>
-                <p className="text-typeographyColor mb-5 font-medium">
-                  Syrup, Coconut, Classic Cakes
-                </p>
-                <div className="text-secondaryColor mb-2 text-5xl font-semibold font-sans">
-                  $25
-                </div>
-              </div>
-            </SwiperSlide>
+              </SwiperSlide>
+            ))}
           </Swiper>
         </div>
       </div>
