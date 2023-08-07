@@ -2,11 +2,11 @@
   "Home": {
     "pageLinks": [
       {
-        "name": "Our Menu",
+        "name": "Our menu",
         "href": "our-menu"
       },
       {
-        "name": "About Us",
+        "name": "About us",
         "href": "about-us"
       },
       {
@@ -26,12 +26,12 @@
     "advantages": [
       {
         "img": "/images/icon-advantages-one.svg",
-        "title": "Our Story",
+        "title": "Our story",
         "description": "We continue a rich tradition of quality beverages and a welcoming atmosphere."
       },
       {
         "img": "/images/icon-advantages-two.svg",
-        "title": "Our Mission",
+        "title": "Our mission",
         "description": "To create unforgettable evenings by offering exquisite drinks and excellent service."
       },
       {

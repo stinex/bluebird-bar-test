@@ -200,7 +200,7 @@ export const Home = () => {
                   alt={t(`advantages.${i}.title`)}
                 />
                 <div className="center">
-                  <h3 className="text-secondaryColor font-semibold mb-[10px] text-4xl">
+                  <h3 className="text-secondaryColor font-semibold mb-[10px] text-2xl">
                     {t(`advantages.${i}.title`)}
                   </h3>
                   <p className="text-typeographyColor font-normal text-base">
