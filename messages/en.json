@@ -51,55 +51,55 @@
           {
             "item_title": "WHITE | Fabiano Pinot Grigio",
             "item_description": "House, dry & light / Italy",
-            "item_price": "$6.5/26",
+            "item_price": "€6.5/26",
             "item_type": ""
           },
           {
             "item_title": "WHITE | Saddle Creek Semillion Chardonnay",
             "item_description": "Dry & fruity / Australia",
-            "item_price": "$6.5/26",
+            "item_price": "€6.5/26",
             "item_type": ""
           },
           {
             "item_title": "WHITE | Secret Coast Sauvignon Blanc",
             "item_description": "Dry & fruity / Marlborough",
-            "item_price": "$7.5/30",
+            "item_price": "€7.5/30",
             "item_type": ""
           },
           {
             "item_title": "RED | Fortant Cabernet Sauvignon",
             "item_description": "House, dry & light / France",
-            "item_price": "$6.5/26",
+            "item_price": "€6.5/26",
             "item_type": ""
           },
           {
             "item_title": "RED | Luccarelli Negroamaro",
             "item_description": "Dry & forest fruit / Italy",
-            "item_price": "$7.5/30",
+            "item_price": "€7.5/30",
             "item_type": ""
           },
           {
             "item_title": "ROSE | Villa Moncigale Coteaux D'aix-En-Provence",
             "item_description": "Dry, blush rose / France",
-            "item_price": "$35",
+            "item_price": "€35",
             "item_type": ""
           },
           {
             "item_title": "SPARKLING | Rabarberu dzirkstvins",
             "item_description": "Rhubarb Sparkling Wine 15/75cl",
-            "item_price": "$7.5/30",
+            "item_price": "€7.5/30",
             "item_type": ""
           },
           {
             "item_title": "SPARKLING | Cantina Prosecco Extra Dry",
             "item_description": "Prosecco 15/75cl",
-            "item_price": "$6.5/26",
+            "item_price": "€6.5/26",
             "item_type": ""
           },
           {
             "item_title": "DESSERT | Abavas Abolküka vins",
             "item_description": "Apple Pie Desert Wine 15/75cl",
-            "item_price": "$6/25",
+            "item_price": "€6/25",
             "item_type": ""
           }
         ]
@@ -111,13 +111,13 @@
           {
             "item_title": "Sangria",
             "item_description": "Red wine, fresh orange juice, cointreau, lemonade, fruits",
-            "item_price": "$18",
+            "item_price": "€18",
             "item_type": ""
           },
           {
             "item_title": "Rhubarb Sanaria",
             "item_description": "Abavas Rhubarb sparkling wine, gin, sparkling rhubarb, fruits",
-            "item_price": "$21",
+            "item_price": "€21",
             "item_type": ""
           }
         ]
@@ -129,19 +129,19 @@
           {
             "item_title": "Amalfitana",
             "item_description": "Fresh lemon juice, home made sugar syrup, soda, mint",
-            "item_price": "$6",
+            "item_price": "€6",
             "item_type": ""
           },
           {
             "item_title": "Classic Ice Tea",
             "item_description": "Black tea, fresh lemon, organic honey",
-            "item_price": "$6",
+            "item_price": "€6",
             "item_type": ""
           },
           {
             "item_title": "Elderflower & Raspberry Presse",
             "item_description": "Elderflower, raspberry, lemon, soda",
-            "item_price": "$6",
+            "item_price": "€6",
             "item_type": ""
           }
         ]
@@ -153,37 +153,37 @@
           {
             "item_title": "Fish and Chips",
             "item_description": "beer battered cod, chips, green peas, tar-tar sauce",
-            "item_price": "$13",
+            "item_price": "€13",
             "item_type": ""
           },
           {
             "item_title": "Tuna Steak",
             "item_description": "tuna & two side dishes your choice",
-            "item_price": "$25",
+            "item_price": "€25",
             "item_type": ""
           },
           {
             "item_title": "Ribeye Steak",
             "item_description": "black angus beef antrecot, adjika sauce, two side dishes of your choice",
-            "item_price": "$29",
+            "item_price": "€29",
             "item_type": ""
           },
           {
             "item_title": "Pork Ribs",
             "item_description": "roasted pork ribs in honey & soy glaze / half rack / full rack",
-            "item_price": "$13/10/16",
+            "item_price": "€13/10/16",
             "item_type": ""
           },
           {
             "item_title": "Beef Dumplings",
             "item_description": "homemade beef dumplings, creamy garlic dip",
-            "item_price": "$11",
+            "item_price": "€11",
             "item_type": ""
           },
           {
             "item_title": "Vodka Style Beef Dumplings",
             "item_description": "served with bouillon & garlic sauce and shot of Stoli",
-            "item_price": "$14",
+            "item_price": "€14",
             "item_type": ""
           }
         ]
@@ -195,25 +195,25 @@
           {
             "item_title": "True Fillet of Fish",
             "item_description": "brioche bun, cod, cheddar, crispy potato, tartar sauce",
-            "item_price": "$14",
+            "item_price": "€14",
             "item_type": ""
           },
           {
             "item_title": "BFC Bluebird Fried Chicken",
             "item_description": "brioche bun, curry marinated chicken breast, cheese, slow salad, crispy onion, curry mayo",
-            "item_price": "$13",
+            "item_price": "€13",
             "item_type": ""
           },
           {
             "item_title": "Super Cow",
             "item_description": "brioche bun, beef patty, cheese, tomato, salad, pickled onion & cucumber, chimichurri mayo",
-            "item_price": "$14",
+            "item_price": "€14",
             "item_type": ""
           },
           {
             "item_title": "Silence of the Lambs",
             "item_description": "brioche bun, lamb patty, bryndza cheese, tomato, salad, marinated onion, herbs mix, adjika sauce, chimichurri mayo",
-            "item_price": "$16.5",
+            "item_price": "€16.5",
             "item_type": ""
           }
         ]
@@ -225,25 +225,25 @@
           {
             "item_title": "Samurai's Sausage",
             "item_description": "brioche bun, homemade sausage, nori, kimchi, pickled ginger, chilli flakes, miso mayo",
-            "item_price": "$13",
+            "item_price": "€13",
             "item_type": ""
           },
           {
             "item_title": "La Chupacabras",
             "item_description": "brioche bun, homemade sausage, nachos cheese sauce, guacamole, jalapeño peppers, spicy mayo",
-            "item_price": "$13",
+            "item_price": "€13",
             "item_type": ""
           },
           {
             "item_title": "Prosciutto e Fungi",
             "item_description": "brioche bun, homemade sausage, parmegianc espuma, roasted mushrooms, prosciutto, blue cheese sauce",
-            "item_price": "$13",
+            "item_price": "€13",
             "item_type": ""
           },
           {
             "item_title": "All In",
             "item_description": "brioche bun, homemade sausage, salad iceberg, tomato, pickles, crispy onion, pickled onion, cheddar cheese sauce, chimichurri mayo",
-            "item_price": "$14",
+            "item_price": "€14",
             "item_type": ""
           }
         ]
@@ -255,19 +255,19 @@
           {
             "item_title": "Tomato Salad",
             "item_description": "",
-            "item_price": "$3.5",
+            "item_price": "€3.5",
             "item_type": ""
           },
           {
             "item_title": "Nuggets",
             "item_description": "",
-            "item_price": "$4.5",
+            "item_price": "€4.5",
             "item_type": ""
           },
           {
             "item_title": "Butter & Cheese Macaroni",
             "item_description": "",
-            "item_price": "$5",
+            "item_price": "€5",
             "item_type": ""
           }
         ]
@@ -279,19 +279,19 @@
           {
             "item_title": "Ice Cream",
             "item_description": "vanilla / chocolate / strawberry",
-            "item_price": "$2.5",
+            "item_price": "€2.5",
             "item_type": ""
           },
           {
             "item_title": "Churros",
             "item_description": "with caramel sauce",
-            "item_price": "$5",
+            "item_price": "€5",
             "item_type": ""
           },
           {
             "item_title": "Apple Tarte Tatin",
             "item_description": "with vanilla ice cream",
-            "item_price": "$7.5",
+            "item_price": "€7.5",
             "item_type": ""
           }
         ]
@@ -303,91 +303,91 @@
           {
             "item_title": "Paloma",
             "item_description": "Tequila, grapefruit juice, lime juice, agave, soda",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Twinkle",
             "item_description": "Vodka, elderflower, prosecco",
-            "item_price": "$10",
+            "item_price": "€10",
             "item_type": ""
           },
           {
             "item_title": "Aperol Spritz",
             "item_description": "Aperol, prosecco, soda",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Tommy's Margarita",
             "item_description": "Tequila, lime juice, agave",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Gin Basil Smash",
             "item_description": "AGin, lemon juice, sugar, basil, soda",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Negroni",
             "item_description": "Gin. campari, sweet vermouth",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Cucumber Collins",
             "item_description": "Vodka, cucumber, elderflower, soda",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Old Fashioned",
             "item_description": "Bourbon, angostura bitters, sugar",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Passionfruit Martini / Pornstar Martini",
             "item_description": "Vodka/vanilla vodka, passionfruit puree, sugar/ prosecco",
-            "item_price": "$9/10",
+            "item_price": "€9/10",
             "item_type": ""
           },
           {
             "item_title": "Espresso Martini",
             "item_description": "Vanilla vodka, kahlua, espresso, sugar",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Queens Park Moiito",
             "item_description": "White rum, lime, mint, sugar, angostura bitters, soda",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Pisco Sour",
             "item_description": "Pisco, lime, egg white, sugar syrup, angostura bitters",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Posh Spice",
             "item_description": "Vodka. passionfruit. ialapeño. orosecco",
-            "item_price": "$10",
+            "item_price": "€10",
             "item_type": ""
           },
           {
             "item_title": "Paco Margarita",
             "item_description": "Tequila, pineapple, jalapeño. lime. agave",
-            "item_price": "$10",
+            "item_price": "€10",
             "item_type": ""
           },
           {
             "item_title": "Clover Club",
             "item_description": "Gin, lemon, egg white, raspberries",
-            "item_price": "$10",
+            "item_price": "€10",
             "item_type": ""
           }
         ]
@@ -399,133 +399,133 @@
           {
             "item_title": "Monkey Shoulder",
             "item_description": "House, Scotland",
-            "item_price": "$7",
+            "item_price": "€7",
             "item_type": ""
           },
           {
             "item_title": "Chivas 12 v.o.",
             "item_description": "Scotland",
-            "item_price": "$7",
+            "item_price": "€7",
             "item_type": ""
           },
           {
             "item_title": "Aberlour 12 v.o.",
             "item_description": "Scotland",
-            "item_price": "$10",
+            "item_price": "€10",
             "item_type": ""
           },
           {
             "item_title": "Caol Ila 12 v.o.",
             "item_description": "Scotland",
-            "item_price": "$10",
+            "item_price": "€10",
             "item_type": ""
           },
           {
             "item_title": "Glenfiddich 12 y.o.",
             "item_description": "Scotland",
-            "item_price": "$10",
+            "item_price": "€10",
             "item_type": ""
           },
           {
             "item_title": "Ardbeg 10 v.o.",
             "item_description": "Scotland",
-            "item_price": "$11",
+            "item_price": "€11",
             "item_type": ""
           },
           {
             "item_title": "Talisker 10 v.o.",
             "item_description": "Scotland",
-            "item_price": "$9",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Jameson",
             "item_description": "Ireland",
-            "item_price": "$6",
+            "item_price": "€6",
             "item_type": ""
           },
           {
             "item_title": "Proper 12",
             "item_description": "Ireland",
-            "item_price": "$8",
+            "item_price": "€8",
             "item_type": ""
           },
           {
             "item_title": "Bushmills Black Bush",
             "item_description": "Ireland",
-            "item_price": "$7",
+            "item_price": "€7",
             "item_type": ""
           },
           {
             "item_title": "Nikka From the Barrel",
             "item_description": "Japan",
-            "item_price": "$14",
+            "item_price": "€14",
             "item_type": ""
           },
           {
             "item_title": "Jack Daniels",
             "item_description": "USA",
-            "item_price": "$6",
+            "item_price": "€6",
             "item_type": ""
           },
           {
             "item_title": "4 Roses Small Batch",
             "item_description": "USA",
-            "item_price": "$8",
+            "item_price": "€8",
             "item_type": ""
           },
           {
             "item_title": "Woodford Bourbon",
             "item_description": "USA",
-            "item_price": "$8",
+            "item_price": "€8",
             "item_type": ""
           },
           {
             "item_title": "Bulleit Bourbon",
             "item_description": "USA",
-            "item_price": "$7",
+            "item_price": "€7",
             "item_type": ""
           },
           {
             "item_title": "Bullet 95 Rve",
             "item_description": "USA",
-            "item_price": "$7",
+            "item_price": "€7",
             "item_type": ""
           },
           {
             "item_title": "Martell VSOP",
             "item_description": "France",
-            "item_price": "$10",
+            "item_price": "€10",
             "item_type": ""
           },
           {
             "item_title": "Disarono Amaretto",
             "item_description": "Italy",
-            "item_price": "$5.5",
+            "item_price": "€5.5",
             "item_type": ""
           },
           {
             "item_title": "Dolin Vermouth Dry",
             "item_description": "France",
-            "item_price": "$5.5",
+            "item_price": "€5.5",
             "item_type": ""
           },
           {
             "item_title": "Dolin Vermouth Sweet",
             "item_description": "France",
-            "item_price": "$5.5",
+            "item_price": "€5.5",
             "item_type": ""
           },
           {
             "item_title": "Abavas Sarkanais Vermouts",
             "item_description": "Latvia",
-            "item_price": "$6.5",
+            "item_price": "€6.5",
             "item_type": ""
           },
           {
             "item_title": "Dabavas Kirsu Velvets",
             "item_description": "Latvia",
-            "item_price": "$6.5",
+            "item_price": "€6.5",
             "item_type": ""
           }
         ]
@@ -537,19 +537,19 @@
           {
             "item_title": "KOMBUCHA",
             "item_description": "Mango & Passion Fruit / Raspberry & Basil",
-            "item_price": "$4",
+            "item_price": "€4",
             "item_type": ""
           },
           {
             "item_title": "FIZZY JUICE / DZIRKSTSULA",
             "item_description": "Rhubarb / Quince / Aronia / Apple, red currant & mint / Apple, ginger & hops",
-            "item_price": "$3.5",
+            "item_price": "€3.5",
             "item_type": ""
           },
           {
             "item_title": "FRITZ",
             "item_description": "Kola / Kola Sugar free / Orange / Rhubarb / Lemonade",
-            "item_price": "$3.5",
+            "item_price": "€3.5",
             "item_type": ""
           }
         ]
@@ -561,67 +561,67 @@
           {
             "item_title": "English Breakfast",
             "item_description": "Black",
-            "item_price": "$4",
+            "item_price": "€4",
             "item_type": ""
           },
           {
             "item_title": "L'oriental",
             "item_description": "Green",
-            "item_price": "$4",
+            "item_price": "€4",
             "item_type": ""
           },
           {
             "item_title": "Camomile",
             "item_description": "Herbal",
-            "item_price": "$4",
+            "item_price": "€4",
             "item_type": ""
           },
           {
             "item_title": "Fresh Mint",
             "item_description": "Herbal",
-            "item_price": "$3.5",
+            "item_price": "€3.5",
             "item_type": ""
           },
           {
             "item_title": "Carcadet",
             "item_description": "Red",
-            "item_price": "$4",
+            "item_price": "€4",
             "item_type": ""
           },
           {
             "item_title": "Espresso",
             "item_description": "Single / Double",
-            "item_price": "$3/3.5",
+            "item_price": "€3/3.5",
             "item_type": ""
           },
           {
             "item_title": "Macchiato",
             "item_description": "Single / Double",
-            "item_price": "$3.5/4",
+            "item_price": "€3.5/4",
             "item_type": ""
           },
           {
             "item_title": "Americano",
             "item_description": "Black / White",
-            "item_price": "$3.5",
+            "item_price": "€3.5",
             "item_type": ""
           },
           {
             "item_title": "Latte / Flat White / Capuccino",
             "item_description": "",
-            "item_price": "$4",
+            "item_price": "€4",
             "item_type": ""
           },
           {
             "item_title": "Iced Americano",
             "item_description": "Black / White",
-            "item_price": "$4",
+            "item_price": "€4",
             "item_type": ""
           },
           {
             "item_title": "Iced latte",
             "item_description": "",
-            "item_price": "$5",
+            "item_price": "€5",
             "item_type": ""
           }
         ]
@@ -633,31 +633,31 @@
           {
             "item_title": "Tuna Tartare",
             "item_description": "tuna, fennel, green apple, mango, cucumber, nori, ponzo sauce, wasabi mac",
-            "item_price": "$14",
+            "item_price": "€14",
             "item_type": ""
           },
           {
             "item_title": "Beef Tartare",
             "item_description": "beef, sun dried tomatoes, roasted beetroot, fresh yolk, croutons",
-            "item_price": "$13",
+            "item_price": "€13",
             "item_type": ""
           },
           {
             "item_title": "Farmers mix",
-            "item_description": "summer mix tomatoes, herb infused oil, pickled onion, cucumbers, sea salt + add roasted brie cheese $2.5",
-            "item_price": "$8",
+            "item_description": "summer mix tomatoes, herb infused oil, pickled onion, cucumbers, sea salt + add roasted brie cheese €2.5",
+            "item_price": "€8",
             "item_type": ""
           },
           {
             "item_title": "Buratta",
             "item_description": "mix salad. strawberry. cherry tomatoes. blue cheese, vinaigrette dressing",
-            "item_price": "$13.5",
+            "item_price": "€13.5",
             "item_type": ""
           },
           {
             "item_title": "Steak salad",
             "item_description": "veal steak, quail eggs, baby gem lettuce, grilled pear, parsnip crisps, honey-mustard vinaigrette",
-            "item_price": "$15",
+            "item_price": "€15",
             "item_type": ""
           }
         ]
@@ -669,85 +669,85 @@
           {
             "item_title": "Olives",
             "item_description": "Sheros marinareo",
-            "item_price": "$4",
+            "item_price": "€4",
             "item_type": ""
           },
           {
             "item_title": "Edamame Beans",
             "item_description": "with sea sant",
-            "item_price": "$4.5",
+            "item_price": "€4.5",
             "item_type": ""
           },
           {
             "item_title": "Padron peppers",
             "item_description": "with sea salt",
-            "item_price": "$4",
+            "item_price": "€4",
             "item_type": ""
           },
           {
             "item_title": "Classic French Fries",
             "item_description": "",
-            "item_price": "$4.5",
+            "item_price": "€4.5",
             "item_type": ""
           },
           {
             "item_title": "Sweet Potato Fries",
             "item_description": "",
-            "item_price": "$5.5",
+            "item_price": "€5.5",
             "item_type": ""
           },
           {
             "item_title": "Rye Bread Sticks",
             "item_description": "with garlic & blue cheese sauce",
-            "item_price": "$5.5",
+            "item_price": "€5.5",
             "item_type": ""
           },
           {
             "item_title": "Cauliflower Tempura",
             "item_description": "with miso mayo",
-            "item_price": "$6.5",
+            "item_price": "€6.5",
             "item_type": ""
           },
           {
             "item_title": "American Grilled Corn",
             "item_description": "with burnt butter & sea salt",
-            "item_price": "$5",
+            "item_price": "€5",
             "item_type": ""
           },
           {
             "item_title": "Fried Calamari",
             "item_description": "with curry mayo",
-            "item_price": "$7",
+            "item_price": "€7",
             "item_type": ""
           },
           {
             "item_title": "Fried Chicken Tails",
             "item_description": "with spicy sauce",
-            "item_price": "$5.5",
+            "item_price": "€5.5",
             "item_type": ""
           },
           {
             "item_title": "Chicken Wings",
             "item_description": "in kimchi-honey glaze",
-            "item_price": "$5.5",
+            "item_price": "€5.5",
             "item_type": ""
           },
           {
             "item_title": "Mezze Board",
             "item_description": "hummus, tzatziki, babaganush, romesco & homemade bread",
-            "item_price": "$14",
+            "item_price": "€14",
             "item_type": ""
           },
           {
             "item_title": "Casual sharing board for 2-3 persons",
             "item_description": "",
-            "item_price": "$17",
+            "item_price": "€17",
             "item_type": ""
           },
           {
             "item_title": "Party sharing board for 4-5 persons",
             "item_description": "",
-            "item_price": "$34",
+            "item_price": "€34",
             "item_type": ""
           }
         ]
@@ -759,13 +759,13 @@
           {
             "item_title": "Latvian Cold Beetroot & Rustic Potatoes",
             "item_description": "beetroot, apple, cucumber, eggs, kefir, herb mix",
-            "item_price": "$5",
+            "item_price": "€5",
             "item_type": ""
           },
           {
             "item_title": "Harcho with Homemade Bread",
             "item_description": "lamb, rice, chilli, tomatoes, coriander",
-            "item_price": "$8",
+            "item_price": "€8",
             "item_type": ""
           }
         ]
@@ -777,13 +777,13 @@
           {
             "item_title": "Qutab",
             "item_description": "homemade lavash, minced beef, herbs & butter",
-            "item_price": "$6",
+            "item_price": "€6",
             "item_type": ""
           },
           {
             "item_title": "Azerbaijani Baklava",
             "item_description": "+ add ice-cream scoop",
-            "item_price": "$3.2 +$2",
+            "item_price": "€3.2 +€2",
             "item_type": ""
           }
         ]
@@ -795,55 +795,55 @@
           {
             "item_title": "Adjika",
             "item_description": "",
-            "item_price": "$1.2",
+            "item_price": "€1.2",
             "item_type": ""
           },
           {
             "item_title": "Miso",
             "item_description": "",
-            "item_price": "$1.2",
+            "item_price": "€1.2",
             "item_type": ""
           },
           {
             "item_title": "Chimichurri",
             "item_description": "",
-            "item_price": "$1.2",
+            "item_price": "€1.2",
             "item_type": ""
           },
           {
             "item_title": "Tartar",
             "item_description": "",
-            "item_price": "$1.2",
+            "item_price": "€1.2",
             "item_type": ""
           },
           {
             "item_title": "Spicy",
             "item_description": "",
-            "item_price": "$1.2",
+            "item_price": "€1.2",
             "item_type": ""
           },
           {
             "item_title": "Curry Mayo",
             "item_description": "",
-            "item_price": "$1.2",
+            "item_price": "€1.2",
             "item_type": ""
           },
           {
             "item_title": "Wasabi Mayo",
             "item_description": "",
-            "item_price": "$1.2",
+            "item_price": "€1.2",
             "item_type": ""
           },
           {
             "item_title": "Classic Mayo",
             "item_description": "",
-            "item_price": "$1.2",
+            "item_price": "€1.2",
             "item_type": ""
           },
           {
             "item_title": "Ketchup",
             "item_description": "",
-            "item_price": "$1.2",
+            "item_price": "€1.2",
             "item_type": ""
           }
         ]
@@ -895,25 +895,25 @@
       {
         "item_title": "BFC Bluebird Fried Chicken",
         "item_description": "brioche bun, curry marinated chicken breast, cheese, slow salad, crispy onion, curry mayo",
-        "item_price": "$13",
+        "item_price": "€13",
         "item_type": ""
       },
       {
         "item_title": "Super Cow",
         "item_description": "brioche bun, beef patty, cheese, tomato, salad, pickled onion & cucumber, chimichurri mayo",
-        "item_price": "$14",
+        "item_price": "€14",
         "item_type": ""
       },
       {
         "item_title": "La Chupacabras",
         "item_description": "brioche bun, homemade sausage, nachos cheese sauce, guacamole, jalapeño peppers, spicy mayo",
-        "item_price": "$13",
+        "item_price": "€13",
         "item_type": ""
       },
       {
         "item_title": "Fish and Chips",
         "item_description": "beer battered cod, chips, green peas, tar-tar sauce",
-        "item_price": "$13",
+        "item_price": "€13",
         "item_type": ""
       }
     ],
