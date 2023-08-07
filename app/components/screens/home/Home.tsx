@@ -90,7 +90,7 @@ export const Home = () => {
           <h5 className="text-secondaryColor text-base font-sans tracking-[5px] mb-[14px] leading-4">
             {t('mainBlockTitle')}
           </h5>
-          <h1 className="max-w-[500px] text-secondaryColor font-body font-semibold text-[60px] leading-tight mb-[25px] lg:leading-[110px] lg:text-[100px]">
+          <h1 className="max-w-[500px] text-secondaryColor font-body font-semibold leading-tight mb-[25px] text-6xl">
             {t('mainBlockSubTitle')}
           </h1>
           <div className="ml-0 lg:ml-[25px]">
