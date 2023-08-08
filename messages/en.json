@@ -627,7 +627,7 @@
         ]
       },
       {
-        "category": "STARTERS & SALADAS",
+        "category": "SNACKS AND SALADS",
         "classActive": false,
         "product": [
           {
@@ -659,13 +659,7 @@
             "item_description": "veal steak, quail eggs, baby gem lettuce, grilled pear, parsnip crisps, honey-mustard vinaigrette",
             "item_price": "€15",
             "item_type": ""
-          }
-        ]
-      },
-      {
-        "category": "FOR THE TABLE",
-        "classActive": false,
-        "product": [
+          },
           {
             "item_title": "Olives",
             "item_description": "Sheros marinareo",
@@ -749,6 +743,18 @@
             "item_description": "",
             "item_price": "€34",
             "item_type": ""
+          },
+          {
+            "item_title": "Qutab",
+            "item_description": "homemade lavash, minced beef, herbs & butter",
+            "item_price": "€6",
+            "item_type": ""
+          },
+          {
+            "item_title": "Azerbaijani Baklava",
+            "item_description": "+ add ice-cream scoop",
+            "item_price": "€3.2 +€2",
+            "item_type": ""
           }
         ]
       },
@@ -766,24 +772,6 @@
             "item_title": "Harcho with Homemade Bread",
             "item_description": "lamb, rice, chilli, tomatoes, coriander",
             "item_price": "€8",
-            "item_type": ""
-          }
-        ]
-      },
-      {
-        "category": "FEAST FROM THE EAST",
-        "classActive": false,
-        "product": [
-          {
-            "item_title": "Qutab",
-            "item_description": "homemade lavash, minced beef, herbs & butter",
-            "item_price": "€6",
-            "item_type": ""
-          },
-          {
-            "item_title": "Azerbaijani Baklava",
-            "item_description": "+ add ice-cream scoop",
-            "item_price": "€3.2 +€2",
             "item_type": ""
           }
         ]

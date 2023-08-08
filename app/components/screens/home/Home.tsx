@@ -90,10 +90,10 @@ export const Home = () => {
           <h5 className="text-secondaryColor text-base font-sans tracking-[5px] mb-[14px] leading-4">
             {t('mainBlockTitle')}
           </h5>
-          <h1 className="max-w-[500px] text-secondaryColor font-body font-semibold leading-tight mb-[25px] text-6xl">
+          <h1 className="max-w-[600px] text-secondaryColor font-body font-semibold leading-tight mb-[25px] text-6xl">
             {t('mainBlockSubTitle')}
           </h1>
-          <div className="ml-0 lg:ml-[25px]">
+          <div className="ml-0 ">
             <p className="text-typeographyColor text-base max-w-[400px] mb-[60px]">
               {t('mainBlockDescription')}
             </p>
@@ -338,6 +338,45 @@ export const Home = () => {
       >
         <div className="aspect-square">
           <Swiper
+            className="h-[100%]"
+            modules={[Autoplay]}
+            loop={true}
+            autoplay={{
+              delay: 1800,
+            }}
+          >
+            <SwiperSlide>
+              <Image
+                src={infoBlockOne}
+                alt="one"
+                className="h-[100%] object-cover"
+              />
+            </SwiperSlide>
+            <SwiperSlide>
+              <Image
+                src={infoBlockSix}
+                alt="two"
+                className="h-[100%] object-cover"
+              />
+            </SwiperSlide>
+            <SwiperSlide>
+              <Image
+                src={infoBlockTwo}
+                alt="two"
+                className="h-[100%] object-cover"
+              />
+            </SwiperSlide>
+            <SwiperSlide>
+              <Image
+                src={infoBlockFive}
+                alt="two"
+                className="h-[100%] object-cover"
+              />
+            </SwiperSlide>
+          </Swiper>
+        </div>
+        <div className="aspect-square">
+          <Swiper
             className="h-[100%] bg-secondaryColor"
             modules={[Autoplay, Navigation]}
             loop={true}
@@ -391,45 +430,6 @@ export const Home = () => {
                 size={24}
               />
             </div>
-          </Swiper>
-        </div>
-        <div className="aspect-square">
-          <Swiper
-            className="h-[100%]"
-            modules={[Autoplay]}
-            loop={true}
-            autoplay={{
-              delay: 1800,
-            }}
-          >
-            <SwiperSlide>
-              <Image
-                src={infoBlockOne}
-                alt="one"
-                className="h-[100%] object-cover"
-              />
-            </SwiperSlide>
-            <SwiperSlide>
-              <Image
-                src={infoBlockSix}
-                alt="two"
-                className="h-[100%] object-cover"
-              />
-            </SwiperSlide>
-            <SwiperSlide>
-              <Image
-                src={infoBlockTwo}
-                alt="two"
-                className="h-[100%] object-cover"
-              />
-            </SwiperSlide>
-            <SwiperSlide>
-              <Image
-                src={infoBlockFive}
-                alt="two"
-                className="h-[100%] object-cover"
-              />
-            </SwiperSlide>
           </Swiper>
         </div>
         <div className="aspect-square">

@@ -147,7 +147,7 @@
         ]
       },
       {
-        "category": "GARŠAS GALVENIE ĒDĪENI",
+        "category": "GALVENIE ĒDIENI",
         "classActive": false,
         "product": [
           {
@@ -189,7 +189,7 @@
         ]
       },
       {
-        "category": "BĪRGERI",
+        "category": "BURGERI",
         "classActive": false,
         "product": [
           {
@@ -219,7 +219,7 @@
         ]
       },
       {
-        "category": "KARSTIE SUVENĪRI",
+        "category": "HOT DOGS",
         "classActive": false,
         "product": [
           {
@@ -249,7 +249,7 @@
         ]
       },
       {
-        "category": "BERNU DĀRZA ĒDIENKARTE",
+        "category": "BĒRNA ĒDIENKARTE",
         "classActive": false,
         "product": [
           {
@@ -393,7 +393,7 @@
         ]
       },
       {
-        "category": "SPIRTI",
+        "category": "STIPRIE DZĒRIENI",
         "classActive": false,
         "product": [
           {
@@ -627,7 +627,7 @@
         ]
       },
       {
-        "category": "UZSĀKUMI UN SALĀTI",
+        "category": "UZKODAS UN SALĀTI",
         "classActive": false,
         "product": [
           {
@@ -660,13 +660,7 @@
 
             "item_price": "€15",
             "item_type": ""
-          }
-        ]
-      },
-      {
-        "category": "GALDAM",
-        "classActive": false,
-        "product": [
+          },
           {
             "item_title": "Olīvas",
             "item_description": "Marinētas olīvas",
@@ -750,6 +744,18 @@
             "item_description": "",
             "item_price": "€34",
             "item_type": ""
+          },
+          {
+            "item_title": "Qutab",
+            "item_description": "Mājās cepta lavaša, maltas liellopa gaļas, garšaugi un sviests",
+            "item_price": "€6",
+            "item_type": ""
+          },
+          {
+            "item_title": "Azerbaidžāņu baklava",
+            "item_description": "+ pievienot saldējuma bumbiņu",
+            "item_price": "€3.2 +€2",
+            "item_type": ""
           }
         ]
       },
@@ -772,25 +778,7 @@
         ]
       },
       {
-        "category": "NO AUSTIENES AUSTRAUMIEM",
-        "classActive": false,
-        "product": [
-          {
-            "item_title": "Qutab",
-            "item_description": "Mājās cepta lavaša, maltas liellopa gaļas, garšaugi un sviests",
-            "item_price": "€6",
-            "item_type": ""
-          },
-          {
-            "item_title": "Azerbaidžāņu baklava",
-            "item_description": "+ pievienot saldējuma bumbiņu",
-            "item_price": "€3.2 +€2",
-            "item_type": ""
-          }
-        ]
-      },
-      {
-        "category": "MAIZĒS",
+        "category": "MĒRCES",
         "classActive": false,
         "product": [
           {

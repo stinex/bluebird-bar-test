@@ -16,7 +16,7 @@ const Footer: FC = () => {
 
   return (
     <footer
-      className="text-center md:text-left py-[80px] md:py-[100px] lg:py-[130px] max-w-[1170px] m-auto w-[100%]"
+      className="text-center md:text-left py-[80px] md:py-[100px] lg:py-[130px] max-w-[1270px] m-auto w-[100%]"
       id="сontacts"
     >
       <Container>
