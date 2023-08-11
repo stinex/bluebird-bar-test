@@ -5,13 +5,16 @@ import 'swiper/css'
 import 'swiper/css/pagination'
 
 import { useEffect, useRef } from 'react'
-import { useLocale, useTranslations } from 'next-intl'
+import { useTranslations } from 'next-intl'
 import Image from 'next/image'
 
 import { Swiper, SwiperSlide } from 'swiper/react'
 import { Autoplay, Navigation } from 'swiper/modules'
 
 import { BsChevronLeft, BsChevronRight } from 'react-icons/bs'
+import { PiFilePdfBold } from 'react-icons/pi'
+
+
 
 import translations from '@/messages/en.json'
 
@@ -329,6 +332,25 @@ export const Home = () => {
                 ))}
               </div>
             ))}
+          </div>
+
+          <div className="flex flex-col md:flex-row gap-3 mt-8">
+            <a
+              href="/menu/BLUEBIRD-SIPPING-MENU.pdf"
+              target="_blank"
+              className="bg-mainColor px-5 py-3 rounded-lg flex items-center gap-2"
+            >
+              <PiFilePdfBold />
+              SIPPING MENU
+            </a>
+            <a
+              href="/menu/BLUEBIRD-SNACKING-MENU.pdf"
+              target="_blank"
+              className="bg-mainColor px-5 py-3 rounded-lg flex items-center gap-2"
+            >
+              <PiFilePdfBold />
+              SNACKING MENU
+            </a>
           </div>
         </Container>
       </div>
