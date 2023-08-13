@@ -17,6 +17,7 @@ const Social: FC<Ilocation> = ({ location }) => {
         <a
           href={item.href}
           key={item.name}
+          target="_blank"
           className="h-[50px] w-[50px] bg-complementaryColor hover:bg-blueColor ease-in-out duration-300 rounded-full grid place-items-center"
         >
           <Image src={item.icon} alt={item.name} />

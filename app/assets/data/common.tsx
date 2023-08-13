@@ -4,19 +4,19 @@ import IconTwitter from '../images/icon-twitter.svg'
 import { ISocial } from './common.interface'
 
 export const social: ISocial[] = [
-  {
-    name: 'twitter',
-    href: '/',
-    icon: IconTwitter,
-  },
+  // {
+  //   name: 'twitter',
+  //   href: '/',
+  //   icon: IconTwitter,
+  // },
   {
     name: 'facebook',
-    href: '/',
+    href: 'https://www.facebook.com/profile.php?id=100092394026200',
     icon: IconFacebook,
   },
   {
     name: 'instagram',
-    href: '/',
+    href: 'https://www.instagram.com/bluebird.rigabar/',
     icon: IconInstagram,
   },
 ]

@@ -153,7 +153,7 @@
           {
             "item_title": "Fish and Chips",
             "item_description": "beer battered cod, chips, green peas, tar-tar sauce",
-            "item_price": "€13",
+            "item_price": "€15",
             "item_type": ""
           },
           {
@@ -169,15 +169,9 @@
             "item_type": ""
           },
           {
-            "item_title": "Pork Ribs",
-            "item_description": "roasted pork ribs in honey & soy glaze / half rack / full rack",
-            "item_price": "€13/10/16",
-            "item_type": ""
-          },
-          {
             "item_title": "Beef Dumplings",
             "item_description": "homemade beef dumplings, creamy garlic dip",
-            "item_price": "€11",
+            "item_price": "€14",
             "item_type": ""
           },
           {
@@ -195,25 +189,25 @@
           {
             "item_title": "True Fillet of Fish",
             "item_description": "brioche bun, cod, cheddar, crispy potato, tartar sauce",
-            "item_price": "€14",
+            "item_price": "€15",
             "item_type": ""
           },
           {
             "item_title": "BFC Bluebird Fried Chicken",
             "item_description": "brioche bun, curry marinated chicken breast, cheese, slow salad, crispy onion, curry mayo",
-            "item_price": "€13",
+            "item_price": "€15",
             "item_type": ""
           },
           {
             "item_title": "Super Cow",
             "item_description": "brioche bun, beef patty, cheese, tomato, salad, pickled onion & cucumber, chimichurri mayo",
-            "item_price": "€14",
+            "item_price": "€16",
             "item_type": ""
           },
           {
             "item_title": "Silence of the Lambs",
             "item_description": "brioche bun, lamb patty, bryndza cheese, tomato, salad, marinated onion, herbs mix, adjika sauce, chimichurri mayo",
-            "item_price": "€16.5",
+            "item_price": "€17",
             "item_type": ""
           }
         ]
@@ -225,25 +219,25 @@
           {
             "item_title": "Samurai's Sausage",
             "item_description": "brioche bun, homemade sausage, nori, kimchi, pickled ginger, chilli flakes, miso mayo",
-            "item_price": "€13",
+            "item_price": "€15",
             "item_type": ""
           },
           {
             "item_title": "La Chupacabras",
             "item_description": "brioche bun, homemade sausage, nachos cheese sauce, guacamole, jalapeño peppers, spicy mayo",
-            "item_price": "€13",
+            "item_price": "€15",
             "item_type": ""
           },
           {
             "item_title": "Prosciutto e Fungi",
             "item_description": "brioche bun, homemade sausage, parmegianc espuma, roasted mushrooms, prosciutto, blue cheese sauce",
-            "item_price": "€13",
+            "item_price": "€15",
             "item_type": ""
           },
           {
             "item_title": "All In",
             "item_description": "brioche bun, homemade sausage, salad iceberg, tomato, pickles, crispy onion, pickled onion, cheddar cheese sauce, chimichurri mayo",
-            "item_price": "€14",
+            "item_price": "€16",
             "item_type": ""
           }
         ]
@@ -285,13 +279,13 @@
           {
             "item_title": "Churros",
             "item_description": "with caramel sauce",
-            "item_price": "€5",
+            "item_price": "€7",
             "item_type": ""
           },
           {
             "item_title": "Apple Tarte Tatin",
             "item_description": "with vanilla ice cream",
-            "item_price": "€7.5",
+            "item_price": "€8",
             "item_type": ""
           }
         ]
@@ -525,7 +519,7 @@
           {
             "item_title": "Dabavas Kirsu Velvets",
             "item_description": "Latvia",
-            "item_price": "€6.5",
+            "item_price": "€7.5",
             "item_type": ""
           }
         ]
@@ -633,25 +627,25 @@
           {
             "item_title": "Tuna Tartare",
             "item_description": "tuna, fennel, green apple, mango, cucumber, nori, ponzo sauce, wasabi mac",
-            "item_price": "€14",
+            "item_price": "€15",
             "item_type": ""
           },
           {
             "item_title": "Beef Tartare",
             "item_description": "beef, sun dried tomatoes, roasted beetroot, fresh yolk, croutons",
-            "item_price": "€13",
+            "item_price": "€14",
             "item_type": ""
           },
           {
             "item_title": "Farmers mix",
             "item_description": "summer mix tomatoes, herb infused oil, pickled onion, cucumbers, sea salt + add roasted brie cheese €2.5",
-            "item_price": "€8",
+            "item_price": "€9",
             "item_type": ""
           },
           {
             "item_title": "Buratta",
             "item_description": "mix salad. strawberry. cherry tomatoes. blue cheese, vinaigrette dressing",
-            "item_price": "€13.5",
+            "item_price": "€14.5",
             "item_type": ""
           },
           {
@@ -729,19 +723,19 @@
           {
             "item_title": "Mezze Board",
             "item_description": "hummus, tzatziki, babaganush, romesco & homemade bread",
-            "item_price": "€14",
+            "item_price": "€12.5",
             "item_type": ""
           },
           {
             "item_title": "Casual sharing board for 2-3 persons",
             "item_description": "",
-            "item_price": "€17",
+            "item_price": "€24",
             "item_type": ""
           },
           {
             "item_title": "Party sharing board for 4-5 persons",
             "item_description": "",
-            "item_price": "€34",
+            "item_price": "€42",
             "item_type": ""
           },
           {
@@ -765,13 +759,13 @@
           {
             "item_title": "Latvian Cold Beetroot & Rustic Potatoes",
             "item_description": "beetroot, apple, cucumber, eggs, kefir, herb mix",
-            "item_price": "€5",
+            "item_price": "€8",
             "item_type": ""
           },
           {
             "item_title": "Harcho with Homemade Bread",
             "item_description": "lamb, rice, chilli, tomatoes, coriander",
-            "item_price": "€8",
+            "item_price": "€10",
             "item_type": ""
           }
         ]
